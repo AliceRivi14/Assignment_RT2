@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="/mode" default= "0"/>
+  <node pkg="assignment" type="MODE1_node" name="MODE1" output="screen"/>
+  <node pkg="assignment" type="MODE2_node" name="MODE2" output="screen"/>
+  <node pkg="assignment" type="MODE3_node" name="MODE3" output="screen"/>
+  <node pkg="assignment" type="UI_node" name="UI" output="screen" />
+</launch>
