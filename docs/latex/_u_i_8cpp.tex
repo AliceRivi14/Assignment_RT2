@@ -1,0 +1,57 @@
+\hypertarget{_u_i_8cpp}{}\doxysection{U\+I.\+cpp File Reference}
+\label{_u_i_8cpp}\index{UI.cpp@{UI.cpp}}
+
+
+User interface to choose robot\textquotesingle{}s behavior.  
+
+
+{\ttfamily \#include \char`\"{}ros/ros.\+h\char`\"{}}\newline
+Include dependency graph for U\+I.\+cpp\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=139pt]{_u_i_8cpp__incl}
+\end{center}
+\end{figure}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+bool \mbox{\hyperlink{_u_i_8cpp_a88695df57cbdf95c2c4e8caf7eea409d}{M\+O\+DE}} ()
+\item 
+int \mbox{\hyperlink{_u_i_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}{main}} (int argc, char $\ast$$\ast$argv)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+User interface to choose robot\textquotesingle{}s behavior. 
+
+\begin{DoxyAuthor}{Author}
+Alice Rivi
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+0.\+1
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+18/03/2022
+\end{DoxyDate}
+Description\+: The UI node represents the project’s user interface. This node constantly waits for an input from the user, who can ask which mode you want to run based on the robot’s behavior. 
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{_u_i_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}\label{_u_i_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}} 
+\index{UI.cpp@{UI.cpp}!main@{main}}
+\index{main@{main}!UI.cpp@{UI.cpp}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}\item[{int}]{argc,  }\item[{char $\ast$$\ast$}]{argv }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{_u_i_8cpp_a88695df57cbdf95c2c4e8caf7eea409d}\label{_u_i_8cpp_a88695df57cbdf95c2c4e8caf7eea409d}} 
+\index{UI.cpp@{UI.cpp}!MODE@{MODE}}
+\index{MODE@{MODE}!UI.cpp@{UI.cpp}}
+\doxysubsubsection{\texorpdfstring{MODE()}{MODE()}}
+{\footnotesize\ttfamily bool M\+O\+DE (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function to choose the robot\textquotesingle{}s behavior
+
+return true if the input is correct, otherwise it returns E\+R\+R\+OR
+
+This function prints a integer request message and returns the integer given in input by the user.
