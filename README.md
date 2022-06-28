@@ -1,4 +1,4 @@
-# Assignment_RT2
+# Assignment
 
 Final assignment of RT1 course with the Doxygen documentation
 
