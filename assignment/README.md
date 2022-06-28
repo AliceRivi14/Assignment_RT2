@@ -1,4 +1,4 @@
-# Assignment3
+# Assignment 3
 
 Software architecture for the control of a mobile robot.
 ================================
