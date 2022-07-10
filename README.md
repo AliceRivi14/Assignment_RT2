@@ -8,12 +8,12 @@ https://alicerivi14.github.io/Assignment_RT2/
 
 ## Jupyter Notebook
 
-User interface of Third assignment of RT1 course with Jupyter Notebook
+User interface and Data analysis of Third assignment of RT1 course with Jupyter Notebook
 
-Code of Third assignment of RT1 course: https://github.com/AliceRivi14/Assignment3_RT1
+Codes of Third assignment of RT1 course: https://github.com/AliceRivi14/Assignment3_RT1
 
 ## Statical analysis
 
 Statistical analysis of First assignment of RT1 course
 
-Code of First assignment of RT1 course: https://github.com/AliceRivi14/Assignment1_RT1
+Codes of First assignment of RT1 course: https://github.com/AliceRivi14/Assignment1_RT1
