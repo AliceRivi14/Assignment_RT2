@@ -10,6 +10,10 @@ https://alicerivi14.github.io/Assignment_RT2/
 
 Final assignment of RT1 course with Jupyter Notebook
 
+https://github.com/AliceRivi14/Assignment3_RT1
+
 ## Statical analysis
 
-First assignment of RT1 course
+Statistical analysis of first assignment of RT1 course
+
+https://github.com/AliceRivi14/Assignment1_RT1
