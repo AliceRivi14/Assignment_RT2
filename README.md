@@ -2,18 +2,18 @@
 
 ## Doxygen
 
-Final assignment of RT1 course with the Doxygen documentation
+Third assignment of RT1 course with the Doxygen documentation
 
 https://alicerivi14.github.io/Assignment_RT2/
 
 ## Jupyter Notebook
 
-User interface of th final assignment of RT1 course with Jupyter Notebook
+User interface of Third assignment of RT1 course with Jupyter Notebook
 
-Code of final assignment of RT1 course: https://github.com/AliceRivi14/Assignment3_RT1
+Code of Third assignment of RT1 course: https://github.com/AliceRivi14/Assignment3_RT1
 
 ## Statical analysis
 
-Statistical analysis of first assignment of RT1 course
+Statistical analysis of First assignment of RT1 course
 
-https://github.com/AliceRivi14/Assignment1_RT1
+Code of First assignment of RT1 course: https://github.com/AliceRivi14/Assignment1_RT1
