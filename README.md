@@ -8,9 +8,9 @@ https://alicerivi14.github.io/Assignment_RT2/
 
 ## Jupyter Notebook
 
-Final assignment of RT1 course with Jupyter Notebook
+User interface of th final assignment of RT1 course with Jupyter Notebook
 
-https://github.com/AliceRivi14/Assignment3_RT1
+Code of final assignment of RT1 course: https://github.com/AliceRivi14/Assignment3_RT1
 
 ## Statical analysis
 
